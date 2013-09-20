@@ -85,6 +85,7 @@ syn keyword todoVerb create
 syn keyword todoVerb design
 syn keyword todoVerb prepare
 syn keyword todoVerb implement
+syn keyword todoVerb document
 syn keyword todoVerb make
 syn keyword todoVerb report
 syn keyword todoVerb draft
@@ -93,6 +94,7 @@ syn keyword todoVerb write
 " Modify existing
 syn keyword todoVerb wash
 syn keyword todoVerb fix
+syn keyword todoVerb fill
 syn keyword todoVerb clean
 syn keyword todoVerb change
 syn keyword todoVerb add
