@@ -99,6 +99,7 @@ syn keyword todoVerb fix
 syn keyword todoVerb fill
 syn keyword todoVerb clean
 syn keyword todoVerb change
+syn keyword todoVerb replace
 syn keyword todoVerb add
 syn keyword todoVerb convert
 
