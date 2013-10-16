@@ -79,6 +79,8 @@ syn keyword todoVerb find
 syn keyword todoVerb search
 syn keyword todoVerb identify
 syn keyword todoVerb investigate
+syn keyword todoVerb tshoot
+syn keyword todoVerb troubleshoot
 
 " Create new thing
 syn keyword todoVerb create
